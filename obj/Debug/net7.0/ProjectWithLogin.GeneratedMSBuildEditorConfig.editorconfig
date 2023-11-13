@@ -1,0 +1,141 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProjectWithLogin
+build_property.RootNamespace = ProjectWithLogin
+build_property.ProjectDir = D:\sem8\Project\ProjectWithLogin\ProjectWithLogin\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = D:\sem8\Project\ProjectWithLogin\ProjectWithLogin
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/sem8/Project/ProjectWithLogin/ProjectWithLogin/Views/Admin/Display.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGlzcGxheS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sem8/Project/ProjectWithLogin/ProjectWithLogin/Views/AssetMaintenance/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRNYWludGVuYW5jZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sem8/Project/ProjectWithLogin/ProjectWithLogin/Views/AssetMaintenance/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRNYWludGVuYW5jZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sem8/Project/ProjectWithLogin/ProjectWithLogin/Views/AssetMaintenance/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRNYWludGVuYW5jZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sem8/Project/ProjectWithLogin/ProjectWithLogin/Views/AssetMaintenance/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRNYWludGVuYW5jZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sem8/Project/ProjectWithLogin/ProjectWithLogin/Views/AssetMaintenance/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRNYWludGVuYW5jZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sem8/Project/ProjectWithLogin/ProjectWithLogin/Views/AssetMaintenance/MainIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRNYWludGVuYW5jZVxNYWluSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sem8/Project/ProjectWithLogin/ProjectWithLogin/Views/AssetMaintenance/_Print.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRNYWludGVuYW5jZVxfUHJpbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sem8/Project/ProjectWithLogin/ProjectWithLogin/Views/AssetMovement/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRNb3ZlbWVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sem8/Project/ProjectWithLogin/ProjectWithLogin/Views/AssetMovement/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRNb3ZlbWVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sem8/Project/ProjectWithLogin/ProjectWithLogin/Views/AssetMovement/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRNb3ZlbWVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sem8/Project/ProjectWithLogin/ProjectWithLogin/Views/AssetMovement/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRNb3ZlbWVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sem8/Project/ProjectWithLogin/ProjectWithLogin/Views/AssetMovement/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRNb3ZlbWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sem8/Project/ProjectWithLogin/ProjectWithLogin/Views/AssetMovement/MoveIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRNb3ZlbWVudFxNb3ZlSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sem8/Project/ProjectWithLogin/ProjectWithLogin/Views/AssetMovement/_Print.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRNb3ZlbWVudFxfUHJpbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sem8/Project/ProjectWithLogin/ProjectWithLogin/Views/Asset/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sem8/Project/ProjectWithLogin/ProjectWithLogin/Views/Asset/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sem8/Project/ProjectWithLogin/ProjectWithLogin/Views/Asset/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sem8/Project/ProjectWithLogin/ProjectWithLogin/Views/Asset/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sem8/Project/ProjectWithLogin/ProjectWithLogin/Views/Asset/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sem8/Project/ProjectWithLogin/ProjectWithLogin/Views/Asset/_Print.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRcX1ByaW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sem8/Project/ProjectWithLogin/ProjectWithLogin/Views/Dashboard/Display.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXERpc3BsYXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sem8/Project/ProjectWithLogin/ProjectWithLogin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sem8/Project/ProjectWithLogin/ProjectWithLogin/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sem8/Project/ProjectWithLogin/ProjectWithLogin/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sem8/Project/ProjectWithLogin/ProjectWithLogin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sem8/Project/ProjectWithLogin/ProjectWithLogin/Views/UserAuthen/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckF1dGhlblxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sem8/Project/ProjectWithLogin/ProjectWithLogin/Views/UserAuthen/Registration.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckF1dGhlblxSZWdpc3RyYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sem8/Project/ProjectWithLogin/ProjectWithLogin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sem8/Project/ProjectWithLogin/ProjectWithLogin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sem8/Project/ProjectWithLogin/ProjectWithLogin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-mniiuzj95a
